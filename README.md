@@ -1,5 +1,7 @@
 # Automatic-reporting
 
+Important! The data in the report is randomly generated for GITHUB purposes.
+
 Preparation:
 1) Objectives and Target Group:
 	- What are the main objectives of reporting?
