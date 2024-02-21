@@ -1,0 +1,18 @@
+Important! Some of the answers to the questions are sensitive data and therefore not available for GITHUB purposes. The report will be produced once a month, always on the first working day of the month.
+The main objective of reporting is to review the financial performance of the auction flow of immovable property. The main recipients of the reporting are the managers (own e-mail group).
+
+KPIs:
+A) voluntary auctions of immovable property
+B) enforcement auctions of immovable property
+C) cases paid before auction of immovable property
+D) exceptional income of the Legal Department
+
+The following will be used to collect data:
+- MS Power automate AI
+- MS Power automate flows
+- MS Excel
+- MS Onedrive
+- MS Outlook
+
+Data will be visualized as a dashboard in MS Excel. The report does not contain sensitive information. For GITHUB purposes, the data is randomly generated. The dashboard will be locked against changes. 
+Yes there are automation tools and platforms (MS Power Automate).
