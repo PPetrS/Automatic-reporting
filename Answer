@@ -16,3 +16,11 @@ The following will be used to collect data:
 
 Data will be visualized as a dashboard in MS Excel. The report does not contain sensitive information. For GITHUB purposes, the data is randomly generated. The dashboard will be locked against changes. 
 Yes there are automation tools and platforms (MS Power Automate).
+
+
+Data mining through the AI centre in Power Automate involves creating an AI model to extract and interpret data from structured documents (invoices). 
+It includes document ingestion, document extraction, data export.
+
+Creating an automated cloud flow that adds the extracted data to a report file with subsequent saving of the report file.
+
+Creation of a regular automatic flow to send the report file via e-mail.
